@@ -50,3 +50,5 @@ Demonstrate what you can do by adding your own functionality, e.g.
 # Next Steps
 Implement as much as you reasonably can, and document any ideas that you don't have the time to build - we may have the opportunity to try and implement some of them together.
 
+## TODO
+- [ ] Read through code, identify low hanging fruit
